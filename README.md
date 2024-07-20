@@ -19,6 +19,12 @@
 
 ## API usage
 
+### Starting server
+
+```bash
+fastapi dev main.py
+```
+
 ### Model inference
 
 - The inference endpoint (http://127.0.0.1:8000/api/v1/model/inference) will assume the data has already been cleaned and transformations have already been applied to it
