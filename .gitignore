@@ -1,0 +1,5 @@
+__pycache__/**
+data/data_science_competition_2024.csv
+artifacts/**
+Data Science Competition 2024.pdf
+env/
